@@ -1,4 +1,4 @@
-#2024-Winter-Bootcamp-Team-A 🔥
+# 2024-Winter-Bootcamp-Team-A 🔥
 ---
 
 ## 📚 Table of Contents
