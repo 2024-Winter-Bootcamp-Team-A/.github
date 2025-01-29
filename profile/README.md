@@ -1,5 +1,13 @@
 # 2024-Winter-Bootcamp-Team-A 🔥
----
+ 
+<h1 align="center">
+     📚 도서 미리보기 쇼츠 제공 서비스 "BookClip" 
+</h1>
+
+<div align="center" style="font-size:18px"> 
+<br>
+<b>Book preview service! </b> </div>
+<p align="center">
 
 ## 📚 Table of Contents
 - [Medium](#-Medium)
@@ -15,11 +23,43 @@
 ## 📑 Medium
 ## 📹 Demo Video
 
+## 🎨 Introduce
+
+<table width="1200px">
+    <thead>
+    </thead>
+    <tbody>
+    <tr>
+         <td width="600" align="center">
+            <img width="700" alt="image" src="https://github.com/user-attachments/assets/95a7f62a-b55b-4e21-aec3-a82ab0d1af98">
+        </td>
+        <td width="600" align="center">
+            <div align="left">
+<br/>
+<br><br> BookClip은 책에 대한 흥미로운 미리보기 영상을 제작하여 독자들에게 제공하는 서비스입니다. 
+<br>기존의 책 구입 과정에서는 방대한 도서 속에서 직접 탐색해야 하는 어려움이 있었습니다.<br>하지만 BookClip은 AI와 숏폼 콘텐츠를 결합하여 더 쉽고, 더 빠르게, 더 재미있게 책을 선택할 수 있도록 돕습니다.
+<br>BookClip과 함께 더 쉽고 빠르게 당신만의 도서를 찾아보세요.
+<br/><br/>
+
+</br>
+</div>
+</tr>
+</tbody>
+</thead>
+</table>
+
+<br>
+<br>
+
+
 ## 💻 System Architechture
 
 ## 🛠️ Tech stack
 
 ## 💾 ERD
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/f218d781-65a9-4a1d-80fa-f9d97ff027b0)" />
+</p>
 
 ## ✨ API
 
