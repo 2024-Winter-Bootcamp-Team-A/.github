@@ -1,64 +1,64 @@
 # 2024-Winter-Bootcamp-Team-A 🔥
- 
-<h1 align="center">
-     📚 도서 미리보기 쇼츠 제공 서비스 "BookClip" 
-</h1>
 
-<div align="center" style="font-size:18px"> 
+<h1 align="center">🎧 BookClip 🎧</h1>
+<div align="center"> 
+<h3><b>📚 도서 미리보기 쇼츠 제공 크롬 익스텐션 </b></h3><br>
+<img width="1503" src="https://github.com/user-attachments/assets/0174fcb7-1e6e-4c98-8a17-a1d3217b113b">
+
 <br>
-<b>Book preview service! </b> </div>
-<p align="center">
 
-## 📚 Table of Contents
-- [Medium](#-Medium)
-- [Demo Video](#-Demo-Video)
-- [System Architechture](#-System-Architechture)
-- [Tech stack](#-Tech-Stack)
-- [ERD](#-ERD)
-- [API](#-API)
-- [Monitoring](#-Monitoring)
-- [How to Start](#-How-to-Start)
-- [Member](#-Member)
-
-## 📑 Medium
-## 📹 Demo Video
-
-## 🎨 Introduce
-
-<table width="1200px">
-    <thead>
-    </thead>
-    <tbody>
-    <tr>
-         <td width="600" align="center">
-            <img width="700" alt="image" src="https://github.com/user-attachments/assets/95a7f62a-b55b-4e21-aec3-a82ab0d1af98">
-        </td>
-        <td width="600" align="center">
-            <div align="left">
-<br/>
-<br><br> BookClip은 책에 대한 흥미로운 미리보기 영상을 제작하여 독자들에게 제공하는 서비스입니다. 
-<br>기존의 책 구입 과정에서는 방대한 도서 속에서 직접 탐색해야 하는 어려움이 있었습니다.<br>하지만 BookClip은 AI와 숏폼 콘텐츠를 결합하여 더 쉽고, 더 빠르게, 더 재미있게 책을 선택할 수 있도록 돕습니다.
-<br>BookClip과 함께 더 쉽고 빠르게 당신만의 도서를 찾아보세요.
-<br/><br/>
-
-</br>
 </div>
-</tr>
-</tbody>
-</thead>
-</table>
+<br><br>
+
+# 📖 Table of contents
+* [Introduction](#-introduction)
+* [Demo](#-demo)
+* [API](#-api)
+* [System Architecture](#-system-architecture)
+* [ERD](#-erd)
+* [Tech Stack](#-tech-stack)
+* [Monitoring](#-monitoring)
+* [How to start](#-how-to-start)
+* [Directory Structure](#-directory-structure)
+* [Team Members](#-team-members)
 
 <br>
+
+# 📣 Introduction
+### Medium
+> 🔎 [MVStudio Medium](https://medium.com/@jinoo0306/ai%EA%B0%80-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EB%8A%94-%EB%AE%A4%EC%A7%81-%EB%B9%84%EB%94%94%EC%98%A4-%EC%84%9C%EB%B9%84%EC%8A%A4-mvstudio-fc098ae02a08) &nbsp;
+
 <br>
 
-
+🔹 교보문구 사이드패널 기능
+- 도서 상세 페이지에서 해당 책의 쇼츠 영상이 있으면 즉시 제공
+- 기존 쇼츠가 없을 경우 "요청하기" 버튼으로 즉시 생성하여 제공
+  
+🔹 뉴탭 기능
+- 인기 도서 순위를 기반으로 책 추천
+- "오늘의 쇼츠" 페이지에서 랜덤하게 추천된 두개의 책 중 하나의 핵심 문장을 고르면 책 추천
+- 내가 찜한/공유한/문장카드를 저장한 쇼츠를 한곳에서 모아보기
+- 내가 본 도서 장르 비율을 퍼센트로 시각화
+- 
 ## 💻 System Architechture
 
 ## 🛠️ Tech stack
 
+|Area|Tech Stack|
+|:---:|:---:|
+|<b>Frontend</b>|<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"> |
+|<b>Backend</b>|<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/Celery-%233782A6.svg?style=for-the-badge&logo=celery&logoColor=white"> |
+|<b>AI</b>|<img src="https://img.shields.io/badge/openai-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Runway-FF385C?style=for-the-badge&logo=runway&logoColor=white"> |
+|<b>DevOps</b>|<img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white"> |
+|<b>DB</b>|<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"> |
+|<b>Monitoring</b>|<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"> <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/cadvisor-2196F3?style=for-the-badge&logo=cadvisor&logoColor=white"> <img src="https://img.shields.io/badge/Node Exporter-FF9900?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Loki-7F52FF?style=for-the-badge&logo=loki&logoColor=white"> <img src="https://img.shields.io/badge/Promtail-FFA500?style=for-the-badge&logo=prometheus&logoColor=white"> |
+|<b>etc</b>|<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black"> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> |
+
+
+
 ## 💾 ERD
 <p align="center">
- <img src="https://github.com/user-attachments/assets/f218d781-65a9-4a1d-80fa-f9d97ff027b0)" />
+ <img src="https://github.com/user-attachments/assets/f218d781-65a9-4a1d-80fa-f9d97ff027b0" />
 </p>
 
 ## ✨ API
@@ -66,10 +66,51 @@
 ## 📊 Monitoring
 
 ## 🚀 How to Start
-## 👥 Member
+#### 1. Clone The Repository
+```
+https://github.com/2024-Summer-Bootcamp-Team-I/Backend.git
+https://github.com/2024-Summer-Bootcamp-Team-I/Frontend.git
+```
+#### 2. ENV Setting
+- Backend/.env
+```
+POSTGRES_DB=
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_HOST=
+POSTGRES_PORT=
 
-| Name    | <center>김보배</center>|<center>이다하</center> |<center>양현민</center> | <center>이현빈</center> | <center>송지우</center> | <center>이슬</center>
-| ------- | --------------------------------------------- | ------------------------------------ | --------------------------------------------- | --------------------------------------- | --------------------------------------- | ------------------------------------ |
-| Profile | <center> <img width="100px" height="110px" src="https://github.com/user-attachments/assets/c4b2de27-7104-4f48-a74d-9f42d03d0ac7" /> </center>|<center><img width="100px" height="110px" src="https://github.com/user-attachments/assets/ce51a4bb-9b91-41c0-ad09-19815609f3ba" /></center>|<center><img width="100px" height="110px" src="https://github.com/user-attachments/assets/ad8bf83d-19b2-4209-8208-22c0ebec2665" /></center>|<center><img width="100px" height="110px" src="https://github.com/user-attachments/assets/50d5df7b-bbc5-4b53-b75f-71a7d786f1d5" /></center>|<center><img width="100px" height="110px" src="https://github.com/user-attachments/assets/5ba4f21d-4a9f-4598-993f-d9483692507a" /></center>| <center><img width="100px" height="110px" src="https://github.com/user-attachments/assets/4f42b601-7fdc-4cd0-9df5-358e4bfed163" /></center>
-| role    | <center>Team Leader<br>Backend<br> DevOps</center>   | <center>Backend<br> DevOps</center>    | <center>Backend<br> DevOps</center>  | <center>Frontend<br> UI/UX</center> | <center>Frontend<br> UI/UX</center> | <center>Backend<br> DevOps</center> 
-GitHub | <center>[@Kimbobae1]https://github.com/Kimbobae1</center> | <center>[@daha-lee](https://github.com/daha-lee) </center>| <center>[@Yanghyunnmin](https://github.com/Yanghyunnmin) </center>| <center>[@leeHB-1007](https://github.com/leeHB-1007)</center> | <center>[@JiWoo12161](https://github.com/JiWoo1261))</center> | <center>[@Seul-github](https://github.com/Seul-github)</center>
+OPENAI_API_KEY = ""
+
+TYPECAST_API_KEY = ""
+
+S3_ACCESS_KEY = ""
+S3_SECRET_KEY = ""
+S3_BUCKET = ""
+
+```
+#### 3. Run Docker
+```
+docker-compose up --build
+```
+#### 4. Chrome Extension
+##### 1. 확장 프로그램 빌드
+```
+pnpm i
+pnpm run dev
+```
+  - 위 명령어를 실행하면 dist 폴더에 배포 가능한 파일들이 생성
+##### 2. Chrome 확장 프로그램 로드
+  1. chrome://extensions/ 접속
+  2. 페이지 우측 상단에 있는 “개발자 모드” 토글 활성화
+  3. “압축 해제된 확장 프로그램 로드” 버튼을 클릭
+  4. 빌드된 dist 폴더의 경로를 선택
+  5. 확장 프로그램이 정상적으로 로드되면 확장 프로그램 목록에 새 확장 프로그램이 생성
+
+## 👥 Member
+| Name | 김보배 | 이다하 | 양현민 | 이현빈 | 송지우 | 이슬 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Profile | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/16504f09-e45c-4cb9-b307-210ee362a0e1" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/efd39965-a4f0-46b6-a5a5-154ddffb7996" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/ca376052-4300-484b-b326-4e5ff22fb63b" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/c8343d41-bff3-43ef-8bbe-237a30927eb7" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/c32756fc-32e6-4717-8f17-5a55ab3de872" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/896ec2cd-e668-430d-bb2a-74e2978cb46c" />
+" /> |
+| Role | Backend, DevOps | Backend, DevOps | Backend, DevOps | Frontend, UI/UX | Frontend, UI/UX | Frontend, UI/UX |
+| GitHub | <a href="https://github.com/Kimbobae1"><img src="http://img.shields.io/badge/Kimbobae1-green?style=social&logo=github"/></a> | <a href="https://github.com/daha-lee"><img src="http://img.shields.io/badge/daha--lee-green?style=social&logo=github"/></a> | <a href="https://github.com/Yanghyunnmin"><img src="http://img.shields.io/badge/Yanghyunnmin-green?style=social&logo=github"/></a> | <a href="https://github.com/leeHB-1007"><img src="http://img.shields.io/badge/leeHB--1007-green?style=social&logo=github"/></a> | <a href="https://github.com/JiWoo12161"><img src="http://img.shields.io/badge/JiWoo12161-green?style=social&logo=github"/></a> | <a href="https://github.com/Seul-github"><img src="http://img.shields.io/badge/Seul--github-green?style=social&logo=github"/></a> |
