@@ -1,4 +1,6 @@
-<h1 align="center">🎧 BookClip 🎧</h1>
+<h4 align="center"> 2024-Winter-Bootcamp-Team-A 🔥
+
+<h1 align="center"> BookClip </h1>
 <div align="center"> 
 <h3><b>📚 도서 미리보기 쇼츠 제공 크롬 익스텐션 </b></h3><br>
 <img width="1503" src="https://github.com/user-attachments/assets/0174fcb7-1e6e-4c98-8a17-a1d3217b113b">
@@ -24,7 +26,7 @@
 
 # 📣 Introduction
 ### Medium
-> 🔎 [MVStudio Medium](https://medium.com/@jinoo0306/ai%EA%B0%80-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EB%8A%94-%EB%AE%A4%EC%A7%81-%EB%B9%84%EB%94%94%EC%98%A4-%EC%84%9C%EB%B9%84%EC%8A%A4-mvstudio-fc098ae02a08) &nbsp;
+> 🔎 [Bookclip Medium](https://medium.com/@rlaqhqo9372/2024-winter-silicon-valley-bootcamp-bookclip-a01518b8bbf7) &nbsp;
 
 <br>
 
@@ -37,7 +39,7 @@
 - "오늘의 쇼츠" 페이지에서 랜덤하게 추천된 두개의 책 중 하나의 핵심 문장을 고르면 책 추천
 - 내가 찜한/공유한/문장카드를 저장한 쇼츠를 한곳에서 모아보기
 - 내가 본 도서 장르 비율을 퍼센트로 시각화
-- 
+  
 ## 💻 System Architechture
 
 ## 🛠️ Tech stack
@@ -61,13 +63,64 @@
 
 ## ✨ API
 
-## 📊 Monitoring
+# 📊 Monitoring
+
+<div align="center">
+  <h3 align="left">Prometheus & Grafana</h3>
+  <table>
+        <tr>
+            <th colspan="2">Django</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/758f42b0-23a9-4907-a921-0bff27cccf62" />
+" alt="Django"></td>
+            <td><img src="https://github.com/user-attachments/assets/f8fcb2c3-aba5-48c1-8ef1-94bd7024af44" />
+" alt="Django2"></td>
+        </tr>
+        <tr>
+            <th colspan="2">Celery</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/fa28316e-e970-4135-904c-4ad33acba09d" alt="Celery"></td>
+            <td><img src="https://github.com/user-attachments/assets/147d696f-7ff6-40b9-b616-0e28af433d3f" alt="Celery2"></td>
+        </tr>
+        <tr>
+            <th colspan="2">cAdvisor</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/b93021b8-a7c5-4943-bcd3-e1d4bd368b1b" alt="cAdvisor"></td>
+            <td><img src="https://github.com/user-attachments/assets/d4959403-dd27-4c9a-a4bd-db25f4adcd07" />
+" alt="cAdvisor2"></td>
+        </tr>
+        <tr>
+            <th colspan="2">Node Exporter</th>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/7b27b9ad-1f94-4ec1-981e-a62c21042838" />
+" alt="Node Exporter"></td>
+            <td><img src="https://github.com/user-attachments/assets/fecbbc64-af15-4a79-851b-a22aa7b27a89" />
+ alt="Node Exporter2"></td>
+        </tr>
+    </table>
+  <br>
+
+<br>
+
+# 🔧Logging
+
+<div align="center">
+   
+   |**ELK**|
+   |:---------:|
+   |<img width="1000" alt="ELK" src="https://github.com/user-attachments/assets/5991a158-203e-471f-b755-2c8de1a86050">|
+   
+</div>
 
 ## 🚀 How to Start
 #### 1. Clone The Repository
 ```
-https://github.com/2024-Summer-Bootcamp-Team-I/Backend.git
-https://github.com/2024-Summer-Bootcamp-Team-I/Frontend.git
+https://github.com/2024-Winter-Bootcamp-Team-A/backend.git
+https://github.com/2024-Winter-Bootcamp-Team-A/frontend.git
 ```
 #### 2. ENV Setting
 - Backend/.env
@@ -77,12 +130,15 @@ POSTGRES_USER=
 POSTGRES_PASSWORD=
 POSTGRES_HOST=
 POSTGRES_PORT=
+
 OPENAI_API_KEY = ""
-RUNWAY_API_KEY = ""
+
 TYPECAST_API_KEY = ""
+
 S3_ACCESS_KEY = ""
 S3_SECRET_KEY = ""
 S3_BUCKET = ""
+
 ```
 #### 3. Run Docker
 ```
