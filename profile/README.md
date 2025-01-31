@@ -45,22 +45,18 @@
 > 교보문고 도서 상세 페이지에서 사이드 패널을 열면 해당 도서의 쇼츠를 바로 시청할 수 있습니다.
 > '찜하기' 버튼을 누르면 마이페이지에서 찜한 쇼츠에서 확인 가능합니다.
 > 쇼츠로 통해 본 줄거리가 마음에 들었다면 '공유하기' 버튼을 통해 도서링크도 공유가 가능합니다.
+<img src="https://github.com/user-attachments/assets/f6f3bc10-c0a3-4b8c-953e-9877e5cef941" />
 <br>
-<img src="https://github.com/user-attachments/assets/bd123347-644c-4c79-a4cd-1a0d6b5"/>
-<br>
+
 
 ### Main Page
 > 타이틀별로 도서를 나열하여 취향에 맞는 쇼츠를 바로 시청할 수 있습니다.
 <img src="https://github.com/user-attachments/assets/fae8df54-d290-46cf-919d-70a65dc5f11d"/>
-<img src="/>
-
-
+<img src="https://github.com/user-attachments/assets/272436ac-a4e7-4d97-9411-c606bf9ac01b"/>
 
 ### Search
 > 검색 기능을 통해 원하는 도서를 쉽게 찾을 수 있습니다.
-<br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/dc648d65-0ea9-4dc5-98e5-14f42ec4b256">
-
+<img src="https://github.com/user-attachments/assets/58da483d-d0f7-4b3c-a941-74ae37538d3f"/>
 <br>
 
 ### Stats Page
@@ -72,17 +68,15 @@
 ### Today's shorts
 > 랜덤으로 두 책의 핵심문장 중 하나를 고르면 그에 해당하는 도서의 정보를 보여줍니다.<br>
 > 하루동안은 선택된 도서만 볼 수 있으며 시간이 지나면 자동으로 갱신됩니다.
-<br>
-<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/db9365d8-7e89-4de1-9886-d03406757de0">
+<img src="https://github.com/user-attachments/assets/7b541af9-c7c6-4d07-a209-49cd151a60a1">
 
 <br>
 
 ### My Page
 > 사용자는 마이페이지에서 자신이 최근에 시청한 도서를 확인할 수 있습니다.<br>
 > 읽은 책의 갯수를 바탕으로 분야별로 통계를 내어 사용자의 도서 취향도 확인할 수 있습니다.
-<br>
 <img src="https://github.com/user-attachments/assets/cbfc3bb8-5fdf-4c7d-80d9-5f4b5c61d2f0"/>
-
+<br>
 <br>
 
 ## 💻 System Architechture
