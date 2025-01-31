@@ -47,7 +47,6 @@
 <img src="https://github.com/user-attachments/assets/f6f3bc10-c0a3-4b8c-953e-9877e5cef941" />
 <br>
 
-
 ### Main Page
 <blockquote>타이틀별로 도서를 나열하여 취향에 맞는 쇼츠를 바로 시청할 수 있습니다.</blockquote>
 
@@ -56,24 +55,25 @@
 <blockquote>표지를 누르면 쇼츠가 재생되며 재생카드 뒷면에는 해당 도서와 쇼츠에 대한 상세정보가 있습니다.</blockquote>
 
 <img src="https://github.com/user-attachments/assets/272436ac-a4e7-4d97-9411-c606bf9ac01b"/>
-
+<br>
 
 ### Search
 > 검색 기능을 통해 원하는 도서를 쉽게 찾을 수 있습니다.
 <img src="https://github.com/user-attachments/assets/58da483d-d0f7-4b3c-a941-74ae37538d3f"/>
+<br>
 <br>
 
 ### Stats Page
 > 전체 쇼츠 중 각각 가장 많은 조회수, 찜, 댓글을 받은 쇼츠를 보여줍니다.
 > 표지를 누르면 상세한 통계정보를 볼 수 있습니다.
 <img src="https://github.com/user-attachments/assets/47a5f3d8-6aa0-4b7f-b5da-057699db257c"/>
-<br>
+<br><br>
 
 ### Today's shorts
 > 랜덤으로 두 책의 핵심문장 중 하나를 고르면 그에 해당하는 도서의 정보를 보여줍니다.<br>
 > 하루동안은 선택된 도서만 볼 수 있으며 시간이 지나면 자동으로 갱신됩니다.
 <img src="https://github.com/user-attachments/assets/7b541af9-c7c6-4d07-a209-49cd151a60a1">
-
+<br>
 <br>
 
 ### My Page
