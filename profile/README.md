@@ -1,5 +1,3 @@
-# 2024-Winter-Bootcamp-Team-A 🔥
-
 <h1 align="center">🎧 BookClip 🎧</h1>
 <div align="center"> 
 <h3><b>📚 도서 미리보기 쇼츠 제공 크롬 익스텐션 </b></h3><br>
@@ -111,6 +109,5 @@ pnpm run dev
 | Name | 김보배 | 이다하 | 양현민 | 이현빈 | 송지우 | 이슬 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Profile | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/16504f09-e45c-4cb9-b307-210ee362a0e1" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/efd39965-a4f0-46b6-a5a5-154ddffb7996" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/ca376052-4300-484b-b326-4e5ff22fb63b" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/c8343d41-bff3-43ef-8bbe-237a30927eb7" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/c32756fc-32e6-4717-8f17-5a55ab3de872" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/896ec2cd-e668-430d-bb2a-74e2978cb46c" />
-" /> |
 | Role | Backend, DevOps | Backend, DevOps | Backend, DevOps | Frontend, UI/UX | Frontend, UI/UX | Frontend, UI/UX |
 | GitHub | <a href="https://github.com/Kimbobae1"><img src="http://img.shields.io/badge/Kimbobae1-green?style=social&logo=github"/></a> | <a href="https://github.com/daha-lee"><img src="http://img.shields.io/badge/daha--lee-green?style=social&logo=github"/></a> | <a href="https://github.com/Yanghyunnmin"><img src="http://img.shields.io/badge/Yanghyunnmin-green?style=social&logo=github"/></a> | <a href="https://github.com/leeHB-1007"><img src="http://img.shields.io/badge/leeHB--1007-green?style=social&logo=github"/></a> | <a href="https://github.com/JiWoo12161"><img src="http://img.shields.io/badge/JiWoo12161-green?style=social&logo=github"/></a> | <a href="https://github.com/Seul-github"><img src="http://img.shields.io/badge/Seul--github-green?style=social&logo=github"/></a> |
