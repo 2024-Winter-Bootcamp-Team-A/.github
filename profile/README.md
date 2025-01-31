@@ -28,8 +28,6 @@
 ### Medium
 > 🔎 [Bookclip Medium](https://medium.com/@rlaqhqo9372/2024-winter-silicon-valley-bootcamp-bookclip-a01518b8bbf7) &nbsp;
 
-<br>
-
 🔹 교보문구 사이드패널 기능
 - 도서 상세 페이지에서 해당 책의 쇼츠 영상이 있으면 즉시 제공
 - 기존 쇼츠가 없을 경우 "요청하기" 버튼으로 즉시 생성하여 제공
@@ -39,20 +37,26 @@
 - "오늘의 쇼츠" 페이지에서 랜덤하게 추천된 두개의 책 중 하나의 핵심 문장을 고르면 책 추천
 - 내가 찜한/공유한/문장카드를 저장한 쇼츠를 한곳에서 모아보기
 - 내가 본 도서 장르 비율을 퍼센트로 시각화
+<br>
 
-# 🕺🏻Demo
+# 🎥 Demo
 ### Side Pannel
-> 교보문고 도서 상세 페이지에서 사이드 패널을 열면 해당 도서의 쇼츠를 바로 시청할 수 있습니다.
-> '찜하기' 버튼을 누르면 마이페이지에서 찜한 쇼츠에서 확인 가능합니다.
+> 교보문고 도서 상세 페이지에서 사이드 패널을 열면 해당 도서의 쇼츠를 바로 시청할 수 있습니다.<br>
+> '찜하기' 버튼을 누르면 마이페이지에서 찜한 쇼츠에서 확인 가능합니다.<br>
 > 쇼츠로 통해 본 줄거리가 마음에 들었다면 '공유하기' 버튼을 통해 도서링크도 공유가 가능합니다.
 <img src="https://github.com/user-attachments/assets/f6f3bc10-c0a3-4b8c-953e-9877e5cef941" />
 <br>
 
 
 ### Main Page
-> 타이틀별로 도서를 나열하여 취향에 맞는 쇼츠를 바로 시청할 수 있습니다.
+<blockquote>타이틀별로 도서를 나열하여 취향에 맞는 쇼츠를 바로 시청할 수 있습니다.</blockquote>
+
 <img src="https://github.com/user-attachments/assets/fae8df54-d290-46cf-919d-70a65dc5f11d"/>
+<br>
+<blockquote>표지를 누르면 쇼츠가 재생되며 재생카드 뒷면에는 해당 도서와 쇼츠에 대한 상세정보가 있습니다.</blockquote>
+
 <img src="https://github.com/user-attachments/assets/272436ac-a4e7-4d97-9411-c606bf9ac01b"/>
+
 
 ### Search
 > 검색 기능을 통해 원하는 도서를 쉽게 찾을 수 있습니다.
