@@ -39,9 +39,59 @@
 - "오늘의 쇼츠" 페이지에서 랜덤하게 추천된 두개의 책 중 하나의 핵심 문장을 고르면 책 추천
 - 내가 찜한/공유한/문장카드를 저장한 쇼츠를 한곳에서 모아보기
 - 내가 본 도서 장르 비율을 퍼센트로 시각화
-  
+
+# 🕺🏻Demo
+### Side Pannel
+> 교보문고 도서 상세 페이지에서 사이드 패널을 열면 해당 도서의 쇼츠를 바로 시청할 수 있습니다.
+> '찜하기' 버튼을 누르면 마이페이지에서 찜한 쇼츠에서 확인 가능합니다.
+> 쇼츠로 통해 본 줄거리가 마음에 들었다면 '공유하기' 버튼을 통해 도서링크도 공유가 가능합니다.
+<br>
+<img src="https://github.com/user-attachments/assets/bd123347-644c-4c79-a4cd-1a0d6b5"/>
+<br>
+
+### Main Page
+> 타이틀별로 도서를 나열하여 취향에 맞는 쇼츠를 바로 시청할 수 있습니다.
+<img src="https://github.com/user-attachments/assets/fae8df54-d290-46cf-919d-70a65dc5f11d"/>
+<img src="/>
+
+
+
+### Search
+> 검색 기능을 통해 원하는 도서를 쉽게 찾을 수 있습니다.
+<br>
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/dc648d65-0ea9-4dc5-98e5-14f42ec4b256">
+
+<br>
+
+### Stats Page
+> 전체 쇼츠 중 각각 가장 많은 조회수, 찜, 댓글을 받은 쇼츠를 보여줍니다.
+> 표지를 누르면 상세한 통계정보를 볼 수 있습니다.
+<img src="https://github.com/user-attachments/assets/47a5f3d8-6aa0-4b7f-b5da-057699db257c"/>
+<br>
+
+### Today's shorts
+> 랜덤으로 두 책의 핵심문장 중 하나를 고르면 그에 해당하는 도서의 정보를 보여줍니다.<br>
+> 하루동안은 선택된 도서만 볼 수 있으며 시간이 지나면 자동으로 갱신됩니다.
+<br>
+<img align="center" width="1000" alt="" src="https://github.com/user-attachments/assets/db9365d8-7e89-4de1-9886-d03406757de0">
+
+<br>
+
+### My Page
+> 사용자는 마이페이지에서 자신이 최근에 시청한 도서를 확인할 수 있습니다.<br>
+> 읽은 책의 갯수를 바탕으로 분야별로 통계를 내어 사용자의 도서 취향도 확인할 수 있습니다.
+<br>
+<img src="https://github.com/user-attachments/assets/cbfc3bb8-5fdf-4c7d-80d9-5f4b5c61d2f0"/>
+
+<br>
+
 ## 💻 System Architechture
 <img src="https://github.com/user-attachments/assets/1f7f435b-e86d-4e76-aa6d-48f220e347b6" />
+
+## 💾 ERD
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/f218d781-65a9-4a1d-80fa-f9d97ff027b0" />
+</p>
 
 ## 🛠️ Tech stack
 
@@ -55,12 +105,6 @@
 |<b>Monitoring</b>|<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"> <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/cadvisor-2196F3?style=for-the-badge&logo=cadvisor&logoColor=white"> <img src="https://img.shields.io/badge/Node Exporter-FF9900?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Loki-7F52FF?style=for-the-badge&logo=loki&logoColor=white"> <img src="https://img.shields.io/badge/Promtail-FFA500?style=for-the-badge&logo=prometheus&logoColor=white"> |
 |<b>etc</b>|<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black"> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> |
 
-
-
-## 💾 ERD
-<p align="center">
- <img src="https://github.com/user-attachments/assets/f218d781-65a9-4a1d-80fa-f9d97ff027b0" />
-</p>
 
 ## ✨ API
  <img src="https://github.com/user-attachments/assets/e47c5bae-7010-46eb-a212-157cc54ee735" />
