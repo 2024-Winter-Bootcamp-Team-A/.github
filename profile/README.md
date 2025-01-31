@@ -54,12 +54,13 @@
 <br>
 <blockquote>표지를 누르면 쇼츠가 재생되며 재생카드 뒷면에는 해당 도서와 쇼츠에 대한 상세정보가 있습니다.</blockquote>
 
-<img src="https://github.com/user-attachments/assets/272436ac-a4e7-4d97-9411-c606bf9ac01b"/>
+<img src="https://github.com/user-attachments/assets/46ce4959-0a34-4045-83b2-41cc517f6d2a"/>
 <br>
+
 
 ### Search
 > 검색 기능을 통해 원하는 도서를 쉽게 찾을 수 있습니다.
-<img src="https://github.com/user-attachments/assets/58da483d-d0f7-4b3c-a941-74ae37538d3f"/>
+<img src="https://github.com/user-attachments/assets/d26f38e9-d433-41a8-8a40-02cb894ddd06"/>
 <br>
 <br>
 
@@ -123,17 +124,10 @@
         <td><img src="https://github.com/user-attachments/assets/f8fcb2c3-aba5-48c1-8ef1-94bd7024af44" alt="Django2"></td>
     </tr>
     <tr>
-        <th colspan="2">Celery</th>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/fa28316e-e970-4135-904c-4ad33acba09d" alt="Celery"></td>
-        <td><img src="https://github.com/user-attachments/assets/147d696f-7ff6-40b9-b616-0e28af433d3f" alt="Celery2"></td>
-    </tr>
     <tr>
         <th colspan="2">cAdvisor</th>
     </tr>
     <tr>
-        <td><img src="https://github.com/user-attachments/assets/b93021b8-a7c5-4943-bcd3-e1d4bd368b1b" alt="cAdvisor"></td>
         <td><img src="https://github.com/user-attachments/assets/d4959403-dd27-4c9a-a4bd-db25f4adcd07" alt="cAdvisor2"></td>
     </tr>
     <tr>
@@ -150,10 +144,15 @@
 
 </div>
 
+# 🔧Logging
+<h3 align="left">Loki</h3>
+<img src="https://github.com/user-attachments/assets/6e4bd6ad-6d0d-4ddd-ae21-b944184e263b" />
+
+
 ## 🚀 How to Start
 #### 1. Clone The Repository
 ```
-https://github.com/2024-Winter-Bootcamp-Team-A/backend.git
+https://github.com/2024-Winter-Bootcamp-Team-A/backend.git
 https://github.com/2024-Winter-Bootcamp-Team-A/frontend.git
 ```
 #### 2. ENV Setting
@@ -164,14 +163,12 @@ POSTGRES_USER=
 POSTGRES_PASSWORD=
 POSTGRES_HOST=
 POSTGRES_PORT=
-
 OPENAI_API_KEY = ""
-
 TYPECAST_API_KEY = ""
-
 S3_ACCESS_KEY = ""
 S3_SECRET_KEY = ""
 S3_BUCKET = ""
+RUNWAY_API_KEY = ""
 
 ```
 #### 3. Run Docker
