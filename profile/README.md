@@ -41,6 +41,7 @@
 - 내가 본 도서 장르 비율을 퍼센트로 시각화
   
 ## 💻 System Architechture
+<img src="https://github.com/user-attachments/assets/1f7f435b-e86d-4e76-aa6d-48f220e347b6" />
 
 ## 🛠️ Tech stack
 
@@ -62,46 +63,46 @@
 </p>
 
 ## ✨ API
+ <img src="https://github.com/user-attachments/assets/e47c5bae-7010-46eb-a212-157cc54ee735" />
+</p>
+ <img src="https://github.com/user-attachments/assets/3280ae09-9ed8-44f2-97c1-5219c3b103af" />
+</p>
+
 
 # 📊 Monitoring
 
-  <h3 align="left">Prometheus & Grafana</h3>
-  <table>
-        <tr>
-            <th colspan="2">Django</th>
-        </tr>
-        <tr>
-            <td><img src="https://github.com/user-attachments/assets/758f42b0-23a9-4907-a921-0bff27cccf62" />
-" alt="Django"></td>
-            <td><img src="https://github.com/user-attachments/assets/f8fcb2c3-aba5-48c1-8ef1-94bd7024af44" />
-" alt="Django2"></td>
-        </tr>
-        <tr>
-            <th colspan="2">Celery</th>
-        </tr>
-        <tr>
-            <td><img src="https://github.com/user-attachments/assets/fa28316e-e970-4135-904c-4ad33acba09d" alt="Celery"></td>
-            <td><img src="https://github.com/user-attachments/assets/147d696f-7ff6-40b9-b616-0e28af433d3f" alt="Celery2"></td>
-        </tr>
-        <tr>
-            <th colspan="2">cAdvisor</th>
-        </tr>
-        <tr>
-            <td><img src="https://github.com/user-attachments/assets/b93021b8-a7c5-4943-bcd3-e1d4bd368b1b" alt="cAdvisor"></td>
-            <td><img src="https://github.com/user-attachments/assets/d4959403-dd27-4c9a-a4bd-db25f4adcd07" />
-" alt="cAdvisor2"></td>
-        </tr>
-        <tr>
-            <th colspan="2">Node Exporter</th>
-        </tr>
-        <tr>
-            <td><img src="https://github.com/user-attachments/assets/7b27b9ad-1f94-4ec1-981e-a62c21042838" />
-" alt="Node Exporter"></td>
-            <td><img src="https://github.com/user-attachments/assets/fecbbc64-af15-4a79-851b-a22aa7b27a89" />
- alt="Node Exporter2"></td>
-        </tr>
-    </table>
-  <br>
+<h3 align="left">Prometheus & Grafana</h3>
+<table>
+    <tr>
+        <th colspan="2">Django</th>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/758f42b0-23a9-4907-a921-0bff27cccf62" alt="Django"></td>
+        <td><img src="https://github.com/user-attachments/assets/f8fcb2c3-aba5-48c1-8ef1-94bd7024af44" alt="Django2"></td>
+    </tr>
+    <tr>
+        <th colspan="2">Celery</th>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/fa28316e-e970-4135-904c-4ad33acba09d" alt="Celery"></td>
+        <td><img src="https://github.com/user-attachments/assets/147d696f-7ff6-40b9-b616-0e28af433d3f" alt="Celery2"></td>
+    </tr>
+    <tr>
+        <th colspan="2">cAdvisor</th>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/b93021b8-a7c5-4943-bcd3-e1d4bd368b1b" alt="cAdvisor"></td>
+        <td><img src="https://github.com/user-attachments/assets/d4959403-dd27-4c9a-a4bd-db25f4adcd07" alt="cAdvisor2"></td>
+    </tr>
+    <tr>
+        <th colspan="2">Node Exporter</th>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/7b27b9ad-1f94-4ec1-981e-a62c21042838" alt="Node Exporter"></td>
+        <td><img src="https://github.com/user-attachments/assets/fecbbc64-af15-4a79-851b-a22aa7b27a89" alt="Node Exporter2"></td>
+    </tr>
+</table>
+
 
 <br>
 
