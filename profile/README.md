@@ -65,7 +65,6 @@
 
 # 📊 Monitoring
 
-<div align="center">
   <h3 align="left">Prometheus & Grafana</h3>
   <table>
         <tr>
@@ -106,14 +105,6 @@
 
 <br>
 
-# 🔧Logging
-
-<div align="center">
-   
-   |**ELK**|
-   |:---------:|
-   |<img width="1000" alt="ELK" src="https://github.com/user-attachments/assets/5991a158-203e-471f-b755-2c8de1a86050">|
-   
 </div>
 
 ## 🚀 How to Start
