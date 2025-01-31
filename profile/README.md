@@ -19,7 +19,6 @@
 * [Tech Stack](#-tech-stack)
 * [Monitoring](#-monitoring)
 * [How to start](#-how-to-start)
-* [Directory Structure](#-directory-structure)
 * [Team Members](#-team-members)
 
 <br>
